@@ -19,7 +19,7 @@ Each card includes important details such as:
 
 ## 📸 Screenshot
 
-![Internship Page Screenshot](Screenshot(532).png)  
+![Internship Page Screenshot](Screenshot (532).png)  
 
 
 ## 💡 Features
